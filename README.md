@@ -12,7 +12,7 @@ generates the txt files of all possible combinations of numbers for the inputted
 
 the words in these txt files are checked to be the part of the password.
 
-。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
 
 🔵 The pswd strength is calculated on the basis of:
 
@@ -28,6 +28,6 @@ if pet name is in pswd: score-2
 3🔹 pswd is in dictionary: score-2
 
 4🔹 length is too small (less than 5): score=5
-。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
 
 ➡️ Out of a maximum score of 15, based on these conditions, the calculated score signifying the pswd strength is printed.
