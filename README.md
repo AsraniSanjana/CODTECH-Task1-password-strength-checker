@@ -14,7 +14,7 @@ the words in these txt files are checked to be the part of the password.
 
 。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
 
-*️⃣ The pswd strength is calculated on the basis of:
+🔵 The pswd strength is calculated on the basis of:
 
 1🔹 personal details provided like dob, name, pet's name
 
