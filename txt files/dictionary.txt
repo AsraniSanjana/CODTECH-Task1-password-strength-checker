@@ -1,0 +1,3 @@
+Paste the pswds from this link here:
+
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt
