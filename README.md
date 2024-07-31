@@ -4,7 +4,7 @@
 
 💠 guess-pswd_only-alpha.py 
 generates the txt files of all possible combinations of alphabets for the inputted length. eg.: length3-AlphaCombinations.txt
-(UNREPEATED)
+(UNREPEATED). each word is compared with the password (exact length) to demonstrate how brute forcing can make it vulnerable.
 
 similarly, 
 💠 guess-pswd_only-numeric.py 
